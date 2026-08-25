@@ -1,0 +1,4 @@
+{"snapshot_at": 1787664747.6626673, "source_region": "a", "latest_doc_ts": 1787664747.6293485, "embed_model_version": "embed-model=vi-e5-base@v3", "every_s": 30.0}
+{"snapshot_at": 1787664777.6630933, "source_region": "a", "latest_doc_ts": 1787664777.6497526, "embed_model_version": "embed-model=vi-e5-base@v3", "every_s": 30.0}
+{"snapshot_at": 1787664807.6641486, "source_region": "a", "latest_doc_ts": 1787664805.6681123, "embed_model_version": "embed-model=vi-e5-base@v3", "every_s": 30.0}
+{"snapshot_at": 1787664837.6660028, "source_region": "a", "latest_doc_ts": 1787664835.684082, "embed_model_version": "embed-model=vi-e5-base@v3", "every_s": 30.0}
